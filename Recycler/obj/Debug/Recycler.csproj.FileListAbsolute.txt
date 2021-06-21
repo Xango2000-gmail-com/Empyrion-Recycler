@@ -1,0 +1,18 @@
+C:\Users\Nick\Source\Repos\Recycler\Recycler\bin\Debug\Recycler.dll
+C:\Users\Nick\Source\Repos\Recycler\Recycler\bin\Debug\Recycler.pdb
+C:\Users\Nick\Source\Repos\Recycler\Recycler\obj\Debug\Recycler.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\Recycler\Recycler\obj\Debug\Recycler.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\Recycler\Recycler\obj\Debug\Recycler.dll
+C:\Users\Nick\Source\Repos\Recycler\Recycler\obj\Debug\Recycler.pdb
+F:\Repos\Recycler\Recycler\obj\Debug\Recycler.csproj.CoreCompileInputs.cache
+F:\Repos\Recycler\Recycler\obj\Debug\Recycler.dll
+F:\Repos\Recycler\Recycler\obj\Debug\Recycler.pdb
+F:\Repos\Recycler\Recycler\bin\Debug\Recycler.dll
+F:\Repos\Recycler\Recycler\bin\Debug\Recycler.pdb
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Recycler\Recycler.dll
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Recycler\Recycler.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Recycler\Recycler.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Recycler\Recycler.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Recycle\Recycler.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Recycle\Recycler.pdb
+F:\Repos\Recycler\Recycler\obj\Debug\Recycler.csprojAssemblyReference.cache
